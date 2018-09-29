@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: rollingstone-ecommerce-eureka-service-discovery
+Implementation-Version: 1.0
+Built-By: binitdatta
+Implementation-Vendor-Id: com.rollingstone
+Build-Jdk: 1.8.0_65
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/rollingstone-ecommerce-eureka-service-discovery
+Created-By: Maven Integration for Eclipse
+
